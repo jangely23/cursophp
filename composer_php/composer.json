@@ -1,0 +1,14 @@
+{
+    "name": "jessicaleonel/text",
+    "autoload": {
+        "psr-4": {
+            "Text\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ],
+        "classmap": [
+            "class/database.class.php"
+        ]
+    }
+}
